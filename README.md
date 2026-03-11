@@ -1,4 +1,4 @@
-# MostFrequentArray
+# MostFrequentNumber
 
 Konsolapplikation i C# som hittar den mest frekventa siffran i en array av heltal.
 
